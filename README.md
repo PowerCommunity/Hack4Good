@@ -6,6 +6,6 @@ To find out more about HAck4Good, you can visit us on the Virtual Events Hub Her
 
 Please feel free to use these solutions for AWESOME :) 
 
-If you are interested in trying these hout, take out a Power APLtform / Dynamics 365 trial by following the video instructions below and import the solution files.
+If you are interested in trying these out, take out a Power APLtform / Dynamics 365 trial by following the video instructions below and import the solution files.
 
 How to take out a trial : https://www.youtube.com/watch?v=lfGtjcxeKj4
